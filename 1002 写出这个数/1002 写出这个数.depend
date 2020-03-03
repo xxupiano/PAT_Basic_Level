@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1565144983 source:c:\xuxin\documents\c++\pat_basic_level\1002 写出这个数\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<vector>
+

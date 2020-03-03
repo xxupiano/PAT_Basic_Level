@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565494077 source:c:\xuxin\documents\c++\pat_basic_level\1014 福尔摩斯的约会\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<cctype>
+	<cstdio>
+

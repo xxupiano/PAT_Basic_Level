@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565439811 source:c:\xuxin\documents\c++\pat_basic_level\1006 换个格式输出整数\main.cpp
+	<cstdio>
+	<iostream>
+	<vector>
+
